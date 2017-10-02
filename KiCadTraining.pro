@@ -1,4 +1,4 @@
-update=2017 September 29, Friday 02:08:48
+update=2017 October 03, Tuesday 02:26:17
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=/Users/Shuji/Documents/workspace/KiCadTraining/library
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -60,3 +60,4 @@ LibName28=contrib
 LibName29=valves
 LibName30=a-2301sr
 LibName31=e-183
+LibName32=library/stm32
