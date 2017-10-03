@@ -1,4 +1,4 @@
-update=2017 October 03, Tuesday 02:26:17
+update=2017 October 04, Wednesday 03:00:06
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,5 @@ LibName29=valves
 LibName30=a-2301sr
 LibName31=e-183
 LibName32=library/stm32
+LibName33=stm32nucleo-l476rg
+LibName34=switches
