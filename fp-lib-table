@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name mylib_segmentLED)(type KiCad)(uri "$(KIPRJMOD)/mylib_segmentLED.pretty")(options "")(descr ""))
+  (lib (name mylibSTM32Board)(type KiCad)(uri "$(KIPRJMOD)/mylibSTM32Board.pretty")(options "")(descr ""))
+)
